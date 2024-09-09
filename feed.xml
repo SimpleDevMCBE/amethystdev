@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AmethystDev :3</title>
+    <link href="https://amethystdevbyfk.github.io/amethystdev/feed.xml" rel="self" />
+    <link href="https://amethystdevbyfk.github.io/amethystdev" />
+    <updated>2024-09-09T01:18:25+01:00</updated>
+    <author>
+        <name>FruitKitty</name>
+    </author>
+    <id>https://amethystdevbyfk.github.io/amethystdev</id>
+
+    <entry>
+        <title>My Projects</title>
+        <author>
+            <name>FruitKitty</name>
+        </author>
+        <link href="https://amethystdevbyfk.github.io/amethystdev/my-projects.html"/>
+        <id>https://amethystdevbyfk.github.io/amethystdev/my-projects.html</id>
+
+        <updated>2024-09-09T01:11:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Check out Box Revived Click here to play box revived!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="check-out-box-revived">
+      Check out Box Revived
+    </h2>
+
+  <p>
+    <a href="https://amethystdevbyfk.github.io/amethystdev/this-is-box-revived.html">Click here to play box revived!</a>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

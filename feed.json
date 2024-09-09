@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AmethystDev :3",
+    "description": "",
+    "home_page_url": "https://amethystdevbyfk.github.io/amethystdev",
+    "feed_url": "https://amethystdevbyfk.github.io/amethystdev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "FruitKitty"
+    },
+    "items": [
+        {
+            "id": "https://amethystdevbyfk.github.io/amethystdev/my-projects.html",
+            "url": "https://amethystdevbyfk.github.io/amethystdev/my-projects.html",
+            "title": "My Projects",
+            "summary": "Check out Box Revived Click here to play box revived!",
+            "content_html": "\n    <h2 id=\"check-out-box-revived\">\n      Check out Box Revived\n    </h2>\n\n  <p>\n    <a href=\"https://amethystdevbyfk.github.io/amethystdev/this-is-box-revived.html\">Click here to play box revived!</a>\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "FruitKitty"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-09T01:11:43+01:00",
+            "date_modified": "2024-09-09T01:18:25+01:00"
+        }
+    ]
+}
